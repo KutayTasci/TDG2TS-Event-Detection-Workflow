@@ -29,4 +29,4 @@ Futher information and source codes are available at:
 
 https://github.com/moranbel/tdGraphEmbed
 
-[Link](http://www.kiraradinsky.com/files/Temporal_Dynamic_Graph_Embedding__CIKM.pdf?fbclid=IwAR30gmFRxA8jqjOppnL1kGhUpwXKMQ1aJ1hUBR4lGprSTeroEHl7eTtAT0w)
+Paper - [Link](http://www.kiraradinsky.com/files/Temporal_Dynamic_Graph_Embedding__CIKM.pdf?fbclid=IwAR30gmFRxA8jqjOppnL1kGhUpwXKMQ1aJ1hUBR4lGprSTeroEHl7eTtAT0w)
