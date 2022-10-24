@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/dyn/dynamicgem/.eggs/Babel-2.10.3-py3.6.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dyn/dynamicgem/.eggs/Sphinx-5.1.1-py3.6.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dyn/dynamicgem/.eggs/alabaster-0.7.12-py3.6.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dyn/dynamicgem/.eggs/imagesize-1.4.1-py3.6.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dyn/dynamicgem/.eggs/snowballstemmer-2.2.0-py3.6.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dyn/dynamicgem/.eggs/sphinxcontrib_applehelp-1.0.2-py3.6.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dyn/dynamicgem/.eggs/sphinxcontrib_devhelp-1.0.2-py3.6.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dyn/dynamicgem/.eggs/sphinxcontrib_htmlhelp-2.0.0-py3.6.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dyn/dynamicgem/.eggs/sphinxcontrib_jsmath-1.0.1-py3.6.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dyn/dynamicgem/.eggs/sphinxcontrib_qthelp-1.0.3-py3.6.egg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dyn/dynamicgem/.eggs/sphinxcontrib_serializinghtml-1.1.5-py3.6.egg" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.8 (tdGraphEmbed) (2)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
+</module>
